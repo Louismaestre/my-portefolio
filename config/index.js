@@ -18,7 +18,7 @@ module.exports = {
       tertiary: "#F2F2F2",
       text: "#000000",
       subtext: "#555555",
-      background: "#7E1802",
+      background: "#FFFFFF",
       card: "#FFFFFF",
       scrollBar: "rgba(0, 0, 0, 0.5)",
       boxShadow: "rgba(0, 0, 0, 0.16)",
