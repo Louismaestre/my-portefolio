@@ -57,12 +57,19 @@ module.exports = {
       name: "Linkedin",
       url: "https://www.linkedin.com/in/louis-maestre-671534205/",
     },
+    // {
+    //   name: "Medium",
+    //   url: "https://konstantinmuenster.medium.com/",
+    // },
     {
       name: "Github",
       url:
         "https://github.com/Louismaestre",
     },
-    {
+    // {
+    //   name: "Behance",
+    //   url: "https://www.behance.net/konstanmnster",
+    // },
     // {
     //   name: "Mail",
     //   url: "mailto:mail@konstantin.digital",
