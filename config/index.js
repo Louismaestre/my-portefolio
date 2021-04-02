@@ -55,21 +55,21 @@ module.exports = {
   socialMedia: [
     {
       name: "Linkedin",
-      url: "https://www.linkedin.com/in/louis-maestre-671534205/",
+      url: "https://www.linkedin.com/in/konstantin-muenster/",
     },
-    // {
-    //   name: "Medium",
-    //   url: "https://konstantinmuenster.medium.com/",
-    // },
+    {
+      name: "Medium",
+      url: "https://konstantinmuenster.medium.com/",
+    },
     {
       name: "Github",
       url:
-        "https://github.com/Louismaestre",
+        "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal",
     },
-    // {
-    //   name: "Behance",
-    //   url: "https://www.behance.net/konstanmnster",
-    // },
+    {
+      name: "Behance",
+      url: "https://www.behance.net/konstanmnster",
+    },
     // {
     //   name: "Mail",
     //   url: "mailto:mail@konstantin.digital",
